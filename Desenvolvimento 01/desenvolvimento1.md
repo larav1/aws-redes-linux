@@ -33,3 +33,24 @@ Passos:
 Por fim, envie o arquivo do Cisco gerado, junto com um print da tela com a topologia e do comando ping executado para os outros três computadores.
 
 ## 👩🏻‍💻 Resolução
+
+**Prints da atividade:**
+
+![Image](https://github.com/user-attachments/assets/75f29bf9-afc7-4a77-ac11-fabe908d83b0)
+
+Computador 1
+
+![Image](https://github.com/user-attachments/assets/6cb95ed2-5e74-4424-8415-ccf4aed793c0)
+
+Computador 2
+
+![Image](https://github.com/user-attachments/assets/67006282-0d72-4193-a3e3-d5c0e36ab6f3)
+
+Computador 3
+
+![Image](https://github.com/user-attachments/assets/ef151556-c7b8-4e9b-bf62-9ee01b3c1852)
+
+
+Computador 4
+
+![Image](https://github.com/user-attachments/assets/8df26007-5127-4163-bf56-925d242c6301)
